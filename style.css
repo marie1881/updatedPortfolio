@@ -223,6 +223,7 @@ h1 {
 h2 {  
 	font-size: 32px; 
 	line-height: 1.13; 
+	margin-bottom: 20px;
 }
 
 h3 {  
@@ -896,6 +897,8 @@ button:focus {
 
 .mu-simplefilter {
 	text-align: center;
+	align-items: center;
+	
 }
 
 .mu-simplefilter li {
@@ -909,6 +912,8 @@ button:focus {
 	font-size: 16px;
 	font-weight: 600;
 	letter-spacing: 1px;
+	text-align: center;
+	align-items: center;
 }
 
 .mu-simplefilter li:hover,

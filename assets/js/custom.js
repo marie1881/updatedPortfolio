@@ -76,7 +76,12 @@
 				triggerOnce: true
 			});
 
-			$('.mu-wordpress-bar').LineProgressbar({
+			$('.mu-bootstrap-bar').LineProgressbar({
+				percentage: 70,
+				triggerOnce: true
+			});
+
+			$('.mu-javascript-bar').LineProgressbar({
 				percentage: 65,
 				triggerOnce: true
 			});
